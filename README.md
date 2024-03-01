@@ -35,3 +35,5 @@ Run the script in a Python environment. Enter the desired math operation when pr
 Then, input two numbers when prompted.
 
 The program will compute and display the result of the chosen arithmetic operation.
+
+---------------------------------------------------
